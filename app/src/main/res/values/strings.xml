@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">algo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Name_University">Nombre de la Universidad</string>
+    <string name="web_page">Pagina web</string>
+    <string name="Domains">Dominio</string>
+    <string name="alpha_code">Codigo Alpha</string>
+    <string name="Country">Mexico</string>
+</resources>
